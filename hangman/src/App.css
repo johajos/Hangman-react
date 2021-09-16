@@ -4,7 +4,7 @@
 
 body {
   background-color: #34495e;
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
@@ -33,7 +33,7 @@ h1 {
 
 .figure-container {
   fill: transparent;
-  stroke: #fff;
+  stroke: #ffffff;
   stroke-width: 4px;
   stroke-linecap: round;
 }
@@ -68,7 +68,7 @@ h1 {
 }
 
 .letter {
-  border-bottom: 3px solid #2980b9;
+  border-bottom: 3px solid #2d8ac9;
   display: inline-flex;
   font-size: 30px;
   align-items: center;
